@@ -18,7 +18,7 @@ namespace exam1
         }
 
         private void button1_Click(object sender, EventArgs e)
-   
+
         {
             bool allFieldsValid = true;
 
@@ -62,6 +62,9 @@ namespace exam1
                 MessageBox.Show("Все поля правильно заполнены!");
             }
         }
+
+
+         
 
     }
 }
